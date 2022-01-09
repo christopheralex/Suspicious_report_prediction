@@ -1,5 +1,0 @@
-name: suspicious
-channels:
-  - conda-forge
-  - defaults
-prefix: /opt/miniconda3/envs/py3.6
